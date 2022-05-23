@@ -46,6 +46,8 @@ p {
 .gomb:hover {
   border: 1px solid rgb(14, 78, 104);
   border-radius: 0.25rem;
+  color: rgb(14, 78, 104);
+  background-color: white;
 }
 
 .lablec {
@@ -74,6 +76,12 @@ width: fit-content;
 
 color: red;
 
+
+}
+html{
+
+  background-color: #d3f3ff;
+  text-align: justify;
 
 }
 
